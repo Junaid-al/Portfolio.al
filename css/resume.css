@@ -13,7 +13,7 @@ html, body {
 }
 
 .bgr{
-  background-image: url('/assets/rs.jpg');
+  background-image: url('../assets/rs.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
