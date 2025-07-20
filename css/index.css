@@ -7,7 +7,7 @@ html, body {
   font-family: 'Times New Roman', serif;
   background-color: #111;
   color: #eee;
-  background-image: url('/assets/index.avif');
+  background-image: url("../assets/index.avif");
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
